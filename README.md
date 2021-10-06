@@ -1,3 +1,10 @@
+# api-sis-frotas
+created with Laravel/Lumen for my react.js app
+
+# Para rodar a aplicação
+
+`php -S localhost:8000 -t public`
+
 # Documentação das rotas feita no Insomnia
 [Documentação Insomnia](https://github.com/sankassio99/api-sis-frotas/blob/main/documenter.json)
 
@@ -26,5 +33,4 @@ If you discover a security vulnerability within Lumen, please send an e-mail to 
 
 The Lumen framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 =======
-# api-sis-frotas
-created with laravel for my react.js app
+
